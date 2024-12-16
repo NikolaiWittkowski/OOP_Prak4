@@ -1,3 +1,4 @@
+1. Aufgabe (java,5,8,generics)
 Ändern sie die anwendung aus dem dritten praktikumstermin 
 ab. Die Dienstleistungen eines Bürgeramtes(Hier Cafe) sollen nicht vom 
 typ string[] sein, sonder vom typ ArrayList. Tauschen sie das 
@@ -24,6 +25,9 @@ vorhandnene cafes
 angezeigt werden. Benutzen sie dafür for each schleifen
 
 
+
+2. Aufgabe (JUnitTest)
+   
 Cafe:
 Variante B, Gastronomie,
 Control ist observer
